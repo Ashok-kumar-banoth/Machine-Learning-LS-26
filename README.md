@@ -10,8 +10,7 @@ This repo is your single source of truth - study material, code examples, and as
 
 1. Go to the current week's folder and read its `README.md` first - it gives you the learning path for the week.
 2. Work through the topics **in order**. Each topic's README explains what you need to know before it and what it unlocks next.
-3. Do assignments **regularly** - don't pile them up. Consistent practice beats last-minute cramming.
-4. Stuck on a concept? Revisit the prerequisites, try re-deriving the math, and experiment in code before looking at solutions.
+3. Stuck on a concept? Revisit the prerequisites, try re-deriving the math, and experiment in code before looking at solutions.
 
 ---
 
